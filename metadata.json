@@ -1,0 +1,6 @@
+{
+  "name": "DailyGrocer",
+  "description": "Daily grocery and vegetable price calculator, Goli Soda sales counter, and daily wages & expense manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

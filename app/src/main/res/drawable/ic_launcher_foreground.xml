@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="22"
+        android:translateY="22">
+        <!-- Shopping Bag / Basket Body -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M14,24 L50,24 C52.2,24 54,25.8 53.8,28 L50.2,56 C50,57.8 48.4,59.2 46.6,59.2 L17.4,59.2 C15.6,59.2 14,57.8 13.8,56 L10.2,28 C10,25.8 11.8,24 14,24 Z" />
+        <!-- Basket Handle -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="3.5"
+            android:strokeLineCap="round"
+            android:pathData="M23,24 C23,14 41,14 41,24" />
+        <!-- Soda Bottle Shape inside / behind basket -->
+        <path
+            android:fillColor="#80E8DD"
+            android:pathData="M27,10 L33,10 L33,14 C33,16 35,17 36,19 L36,25 L24,25 L24,19 C25,17 27,16 27,14 Z" />
+        <!-- Vegetable / Tomato / Fruit Silhouette in Bag -->
+        <path
+            android:fillColor="#FF8A80"
+            android:pathData="M20,38 C20,32.5 25,28 31,28 C37,28 42,32.5 42,38 C42,43.5 37,48 31,48 C25,48 20,43.5 20,38 Z" />
+        <!-- Leaf topper -->
+        <path
+            android:fillColor="#A5D6A7"
+            android:pathData="M31,25 C31,25 35,22 36,25 C37,28 32,28 31,25 Z" />
+        <!-- Rupee Symbol accent on bag -->
+        <path
+            android:fillColor="#004D40"
+            android:pathData="M28,34 L36,34 M28,38 L34,38 M28,34 L28,44 M32,38 C34,39.5 35,42 35,44"
+            android:strokeWidth="1.5"
+            android:strokeColor="#004D40"
+            android:strokeLineCap="round" />
+    </group>
+</vector>
